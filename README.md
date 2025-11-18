@@ -1,5 +1,7 @@
 
 
+Output : 
+
 Food prepared for: 500 people
 
 
